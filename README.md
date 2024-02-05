@@ -53,7 +53,5 @@ Description: The rarest and most mythical problems that only a few dare to solve
 
 ```bash
 git clone https://github.com/your-username/CodeWarsChallenges.git
-cd CodeWarsChallengesusagele subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+cd CodeWarsChallenges
+
