@@ -1,5 +1,6 @@
 package com.codewars;
 
+import com.codewars.tier4.Permutations;
 import com.codewars.tier4.TimeFormatter;
 import com.codewars.tier5.SimplePigLatin;
 import com.codewars.tier6.CamelCase;
@@ -23,6 +24,7 @@ public class Main {
         //System.out.println(BetterThanAvg.betterThanAverage(new int[]{2, 3},5));
         //System.out.println(CamelCase.toCamelCase("Witam-z-rana"));
         //System.out.println(SpinWords.spinWords("Witam"));
-        System.out.println(CountingDuplicates.duplicateCount("AAAABBBCCCddd"));
+        //System.out.println(CountingDuplicates.duplicateCount("AAAABBBCCCddd"));
+        System.out.println(Permutations.singlePermutations("abc"));
     }
 }
