@@ -9,6 +9,7 @@ import com.codewars.tier6.SpinWords;
 import com.codewars.tier7.ListFiltering;
 import com.codewars.tier7.Testing123;
 import com.codewars.tier8.BetterThanAvg;
+import com.codewars.tier8.FindNeedle;
 import com.codewars.tier8.ReverseNumber;
 
 import java.util.Arrays;
@@ -27,6 +28,7 @@ public class Main {
         //System.out.println(SpinWords.spinWords("Witam"));
         //System.out.println(CountingDuplicates.duplicateCount("AAAABBBCCCddd"));
 //        System.out.println(Permutations.singlePermutations("abc"));
-        System.out.println(ListFiltering.filterList(List.of(1,2,"a","b")));
+//        System.out.println(ListFiltering.filterList(List.of(1,2,"a","b")));
+        System.out.println(FindNeedle.findNeedle(new Object[] {"hello", "needle"}));
     }
 }
