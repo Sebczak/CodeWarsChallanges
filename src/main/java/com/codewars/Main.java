@@ -6,6 +6,7 @@ import com.codewars.tier5.SimplePigLatin;
 import com.codewars.tier6.CamelCase;
 import com.codewars.tier6.CountingDuplicates;
 import com.codewars.tier6.SpinWords;
+import com.codewars.tier7.ListFiltering;
 import com.codewars.tier7.Testing123;
 import com.codewars.tier8.BetterThanAvg;
 import com.codewars.tier8.ReverseNumber;
@@ -25,6 +26,7 @@ public class Main {
         //System.out.println(CamelCase.toCamelCase("Witam-z-rana"));
         //System.out.println(SpinWords.spinWords("Witam"));
         //System.out.println(CountingDuplicates.duplicateCount("AAAABBBCCCddd"));
-        System.out.println(Permutations.singlePermutations("abc"));
+//        System.out.println(Permutations.singlePermutations("abc"));
+        System.out.println(ListFiltering.filterList(List.of(1,2,"a","b")));
     }
 }
