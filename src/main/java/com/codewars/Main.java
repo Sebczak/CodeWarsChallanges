@@ -5,6 +5,7 @@ import com.codewars.tier4.TimeFormatter;
 import com.codewars.tier5.SimplePigLatin;
 import com.codewars.tier6.CamelCase;
 import com.codewars.tier6.CountingDuplicates;
+import com.codewars.tier6.MultiplesBy3Or5;
 import com.codewars.tier6.SpinWords;
 import com.codewars.tier7.ListFiltering;
 import com.codewars.tier7.Testing123;
@@ -29,6 +30,7 @@ public class Main {
         //System.out.println(CountingDuplicates.duplicateCount("AAAABBBCCCddd"));
 //        System.out.println(Permutations.singlePermutations("abc"));
 //        System.out.println(ListFiltering.filterList(List.of(1,2,"a","b")));
-        System.out.println(FindNeedle.findNeedle(new Object[] {"hello", "needle"}));
+//        System.out.println(FindNeedle.findNeedle(new Object[] {"hello", "needle"}));
+        System.out.println(MultiplesBy3Or5.multiples(10));
     }
 }
